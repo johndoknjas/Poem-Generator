@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1518662135 source:c:\users\john\documents\00 - sfu 2017-2018\fun coding\poem_builder\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<stdexcept>
+
+1547424404 source:c:\users\johnd\documents\fun coding projects\copies of personal projects for github\poem_builder\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<stdexcept>
+	<cstdlib>
+	<algorithm>
+	<time.h>
+
